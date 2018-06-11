@@ -1,5 +1,5 @@
-title: Welcome to SpecterSans's homepage!
-description: I love to mess around on unity and see what I can make.
+Welcome to SpecterSans's homepage!
+I love to mess around on unity and see what I can make.
 
 You can use the [editor on GitHub](https://github.com/SpecterSans/BlueCopen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
